@@ -1,5 +1,5 @@
 # vMenu-Naben
-Voici le vMenu, totalement fonctionnel avec un système de permissions à part.
+Voici le vMenu, totalement fonctionnel avec un système de permissions à part. Le tout traduit en français et avec un tuto pour le config en moins de 5 minutes
 
 __________________________________________________
 
