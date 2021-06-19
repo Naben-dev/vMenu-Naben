@@ -15,6 +15,8 @@ veillez à bien le glisser dans le dossier resources et NON dans une sous catég
 
 - Ensuite ouvrez votre server.cfg et rajoutez cette ligne :
 exec resources/vMenu/config/permissions.cfg
+- et cette ligne :
+start vMenu
 
 - Pour finir ajoutez vos les permissions en suivant les étapes en bas.
 
@@ -34,6 +36,10 @@ Touche pour le NoClip : F2
 N'hésitez pas à me contacter (Naben) pour toutes questions ! "𝐍𝐚𝐛𝐞𝐧.™ 🌴#8962
 
 Voici le github du fichier : https://github.com/Naben-dev/vMenu-Naben
+
+
+
+
 
 
 
